@@ -47,12 +47,19 @@ python facial_landmarks_mine.py --shape-predictor shape_predictor_68_face_landma
 The results are awesome. We can see pretty accurate face landmark detections.
 
 **Input**
+
 ![Example input 1](images/example_01.jpg)
+
 **Output**
+
 ![Example output 1](images/output_01.jpg)
+
 **Input**
+
 ![Example input 2](images/example_02.jpg)
+
 **Output**
+
 ![Example output 2](images/output_02.jpg)
 
 
